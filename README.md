@@ -1,21 +1,13 @@
-# PacMan Assignment
+# PacMen Assignment
 
 ## Description: 
-> Short project description. 
-
-In this project, it is possible to make appear one or many pacman on the screen and make them move around and bounce off the webpage limits.
-
-It is recommended to view the map in full screen size for better experience. However, the project works even if the window is not at full screen.
+> Implementing multiple bouncing pacman inside the DOM using Javascript.
 
 ## Installation: 
 > No installation is required. Just download code and copy to your public_html Apache server. 
 
 ## Usage: 
-> Once you have
-
-You could also add more PacMan after starting the game, simply repeat the process described previously to add new pacman instances.
-
-Trick: If you would like to see all of the pacmen on screen to speed up, click again on the Start Game button. The PacMen will start to move even faster each time you press the Start Game button.
+> Once you have index.html opened in your browser this is how works: When you click the "Add PacMan" button, a new pacman should appear at a random position on the screen. When you click the "Start Game" button, the pacman or pacmen created should start moving at random velocity on the screen. When a given pacman hits the edge of the screen, it should change position to stay within the frame of the web page.
 
 ## Support: 
 > Feel free to contact me for additional support at ocram@beltren.dev. Include the subject "Help with PacMen Game".
@@ -25,3 +17,5 @@ Trick: If you would like to see all of the pacmen on screen to speed up, click a
 
 # License information: 
 > [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) MIT License
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/lukashimsel)
