@@ -6,6 +6,9 @@
 ## Description: 
 > Implementation of multiple Pacmans within the DOM by means of the `makePac` function triggered by the `Add Pacmen` button and then bounced within the DOM window by pressing the `Start Game` button
 
+### See in Action
+[Live Demo!](https://otanerocram.github.io/MIT-JS-Excersise-7.2/index.html)
+
 ## Installation: 
 > Just download code and copy to your public_html Apache web server. No installation is required.
 
