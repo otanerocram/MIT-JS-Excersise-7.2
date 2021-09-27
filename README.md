@@ -1,5 +1,5 @@
 # PacMen Assignment
-![GitHub code size](https://img.shields.io/github/code-size/otanerocram/MIT-JS-Excersise-7.2)
+![GitHub code size](https://img.shields.io/github/repo-size/otanerocram/MIT-JS-Excersise-7.2)
 ![GitHub repo stars](https://img.shields.io/github/stars/otanerocram/MIT-JS-Excersise-7.2)
 ![GitHub repo forks](https://img.shields.io/github/forks/otanerocram/MIT-JS-Excersise-7.2)
 
