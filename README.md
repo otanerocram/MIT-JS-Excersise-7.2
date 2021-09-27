@@ -4,13 +4,13 @@
 ![GitHub repo forks](https://img.shields.io/github/forks/Envoy-VC/zoom-automation?style=social)
 
 ## Description: 
-> Implementation of multiple Pacmans within the DOM by means of the `makePac` function triggered by the `Add Pacmen` button and then bounced within the DOM window by pressing the `Start Game` button
+Implementation of multiple Pacmans within the DOM by means of the `makePac` function triggered by the `Add Pacmen` button and then bounced within the DOM window by pressing the `Start Game` button
 
 ### See in Action
 [Live Demo!](https://otanerocram.github.io/MIT-JS-Excersise-7.2/index.html)
 
 ## Installation: 
-> Just download code and copy to your public_html Apache web server. No installation is required.
+Just download code and copy to your public_html Apache web server. No installation is required.
 
 ## Usage: 
 Once you have index.html opened in your browser
@@ -24,10 +24,10 @@ Once you have index.html opened in your browser
 > - Make multi color pacmen when function `makePac` fires
 
 # License information: 
-> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Support: 
-> Feel free to contact me for additional support at ocram@beltren.dev. Include the subject "Help with PacMen Game".
+Feel free to contact me :call_me_hand: for additional support at ocram@beltren.dev. Include the subject "Help with PacMen Game".
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
