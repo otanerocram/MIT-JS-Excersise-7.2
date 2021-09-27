@@ -21,7 +21,7 @@ Once you have index.html opened in your browser
 > - Make multi color pacmen when function `makePac` fires
 
 # License information: 
-> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) MIT License
+> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Support: 
 > Feel free to contact me for additional support at ocram@beltren.dev. Include the subject "Help with PacMen Game".
