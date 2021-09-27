@@ -1,4 +1,5 @@
 # PacMen Assignment
+## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 ## Description: 
 > Implementing multiple bouncing pacman inside the DOM using Javascript.
