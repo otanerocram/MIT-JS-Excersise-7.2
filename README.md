@@ -23,7 +23,7 @@ Once you have index.html opened in your browser
 > - It would play sounds when bounces at the edge. 
 > - Make multi color pacmen when function `makePac` fires
 
-# License information: 
+## License information: 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Support: 
