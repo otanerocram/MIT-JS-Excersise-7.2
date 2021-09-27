@@ -3,6 +3,8 @@
 ![GitHub repo stars](https://img.shields.io/github/stars/Envoy-VC/zoom-automation?style=social)
 ![GitHub repo forks](https://img.shields.io/github/forks/Envoy-VC/zoom-automation?style=social)
 
+[GitHub code size]
+
 ## Description: 
 > Implementing multiple bouncing pacman inside the DOM using Javascript.
 
