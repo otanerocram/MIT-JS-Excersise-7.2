@@ -1,5 +1,7 @@
 # PacMen Assignment
-## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+![GitHub code size](https://img.shields.io/github/languages/code-size/Envoy-VC/zoom-automation)
+![GitHub repo stars](https://img.shields.io/github/stars/Envoy-VC/zoom-automation?style=social)
+![GitHub repo forks](https://img.shields.io/github/forks/Envoy-VC/zoom-automation?style=social)
 
 ## Description: 
 > Implementing multiple bouncing pacman inside the DOM using Javascript.
@@ -18,5 +20,7 @@
 
 # License information: 
 > [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) MIT License
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/otanerocram)
