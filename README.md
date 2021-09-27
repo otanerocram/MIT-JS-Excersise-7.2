@@ -1,7 +1,7 @@
 # PacMen Assignment
-![GitHub code size](https://img.shields.io/github/languages/code-size/Envoy-VC/zoom-automation)
-![GitHub repo stars](https://img.shields.io/github/stars/Envoy-VC/zoom-automation?style=social)
-![GitHub repo forks](https://img.shields.io/github/forks/Envoy-VC/zoom-automation?style=social)
+![GitHub code size](https://img.shields.io/github/code-size/otanerocram/MIT-JS-Excersise-7.2)
+![GitHub repo stars](https://img.shields.io/github/stars/otanerocram/MIT-JS-Excersise-7.2)
+![GitHub repo forks](https://img.shields.io/github/forks/otanerocram/MIT-JS-Excersise-7.2)
 
 ## Description: 
 Implementation of multiple Pacmans within the DOM by means of the `makePac` function triggered by the `Add Pacmen` button and then bounced within the DOM window by pressing the `Start Game` button
