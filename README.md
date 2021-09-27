@@ -4,7 +4,7 @@
 ![GitHub repo forks](https://img.shields.io/github/forks/Envoy-VC/zoom-automation?style=social)
 
 ## Description: 
-> Implementation of multiple Pacmans within the DOM by means of the `makePac` function triggered by the Add Pacmen button and then bounced within the DOM window by pressing the `Start Game` button
+> Implementation of multiple Pacmans within the DOM by means of the `makePac` function triggered by the `Add Pacmen` button and then bounced within the DOM window by pressing the `Start Game` button
 
 ## Installation: 
 > Just download code and copy to your public_html Apache web server. No installation is required.
@@ -18,7 +18,7 @@ Once you have index.html opened in your browser
 ## Roadmap: 
 > In the next realease:
 > - It would play sounds when bounces at the edge. 
-> - Make multi color pacmen when functions `makePac` fires
+> - Make multi color pacmen when function `makePac` fires
 
 # License information: 
 > [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) MIT License
